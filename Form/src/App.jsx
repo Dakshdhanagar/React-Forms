@@ -3,6 +3,7 @@ import './App.css'
 import Form from './Form'
 import CommentsForms from './CommentsForms'
 import Counter from './counter'
+import Joker from './joker'
 
 function App() {
  
@@ -11,7 +12,8 @@ function App() {
     <>
      {/* <Form/> */}
      {/* <CommentsForms/> */}
-     <Counter/>
+     {/* <Counter/> */}
+     <Joker/>
     </>
   )
 }
